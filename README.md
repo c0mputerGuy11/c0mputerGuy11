@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tensorflow**
 
-- 👨‍💻 All of my projects are available at [https://khaliltahra0ui.netlify.app](https://khaliltahra0ui.netlify.app)
+- 👨‍💻 All of my projects are available at [https://khaliltahra0ui.netlify.app](Khalil Tahraoui)
 
 - 📫 How to reach me **khalil.tahraoui1@gmail.com**
 
