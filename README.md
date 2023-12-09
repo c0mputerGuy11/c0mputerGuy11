@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://khaliltahra0ui.netlify.app](https://khaliltahra0ui.netlify.app)
 
-- 💬 Ask me about **Vue**
-
 - 📫 How to reach me **khalil.tahraoui1@gmail.com**
 
 ## About Me
